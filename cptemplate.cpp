@@ -33,8 +33,6 @@ using namespace std;
 int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(0);
-    cout << "hello world!" << endl; 
-    int a; cin >> a;
-    cout << a + "bruh";
+    cout << "Hello World" << endl;
     return 0;
 }
