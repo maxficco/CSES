@@ -1,4 +1,4 @@
-//https://cses.fi/problemset/task/1070
+// https://cses.fi/problemset/task/1070
 #include <iostream>
 using namespace std;
 typedef long long ll;

@@ -1,4 +1,4 @@
-//https://cses.fi/problemset/task/1092
+// https://cses.fi/problemset/task/1092
 #include <iostream>
 #include <vector>
 using namespace std;

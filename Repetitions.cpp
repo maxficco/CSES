@@ -1,4 +1,4 @@
-//https://cses.fi/problemset/task/1069
+// https://cses.fi/problemset/task/1069
 #include <iostream>
 #include <string>
 using namespace std;
@@ -8,7 +8,7 @@ int main() {
     cin.tie(0);
     string n;
     cin >> n;
-    int ans = 1;
+    int longest = 1;
     int streak = 1;
     char letter = n[0];
     for (int i = 1; i < n.size(); i++){
@@ -18,9 +18,7 @@ int main() {
             letter = n[i];
             streak = 1;
         }
-        if (streak > ans){
-            ans = streak;
-        }
+        if (streak > longest) longest = streak;
     }
-    cout << ans << endl;
+    cout << longest << endl;
 }
