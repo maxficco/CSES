@@ -1,3 +1,3 @@
-[cses.fi](https://cses.fi/problemset)
+[CSES Problem Set](https://cses.fi/problemset)
 
-[my profile](https://cses.fi/user/173063)
+[My profile](https://cses.fi/problemset/user/173063)
